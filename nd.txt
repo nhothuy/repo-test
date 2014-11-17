@@ -1,1 +1,6 @@
 Huong dan su dung
+- Doc file nay
+- Sua file nay
+- Xoa file nay
+- Cap nhat noi dung file nay
+- Xoa noi dung file nay
