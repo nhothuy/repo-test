@@ -1,0 +1,5 @@
+git show-ref
+git status
+git branch -> hien thi branch hien tai
+git checkout -b vietnam -> chuyen branch
+git log
